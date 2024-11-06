@@ -30,7 +30,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  slot_machine_roller: ^1.0.1
   flutter_bloc: ^8.1.6
   flutter_tts: ^4.0.2
   audioplayers: ^6.1.0
@@ -67,10 +66,6 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - assets/PLASMvmt_Trash can rolling on a road 1 (ID 1287)_BSB.wav
-    - assets/mixkit-cheering-crowd-loud-whistle-610.wav
-    - assets/happy-loop-6978.mp3
-    - assets/casino-slot-machine-vector.jpg
     - assets/
   #   - images/a_dot_ham.jpeg
 
